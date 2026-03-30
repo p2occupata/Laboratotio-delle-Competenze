@@ -2,6 +2,9 @@ Questo repository raccoglie i materiali dei workshop nati all’interno del **La
 
 > uno spazio dove ciò che sappiamo diventa utile per tutti.
 
+<br>
+<br>
+
 <p align="center">
   <img src="_assets/image.png" alt="Laboratorio delle Competenze" width="500"/>
 </p>
