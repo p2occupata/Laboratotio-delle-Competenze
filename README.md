@@ -32,14 +32,14 @@ Ogni incontro lascia qualcosa che resta, che può essere ripreso, attraversato, 
 
 ---
 
-## ❤️ Nota
+## Nota
 
 I materiali presenti in questo repository sono stati condivisi dai relatori durante i workshop del Laboratorio delle Competenze.
 
 ---
 
-** Aula P2.0 Occupata – Cubo 40C - Ponte Carrabile **
-** Università della Calabria **
+**Aula P2.0 Occupata – Cubo 40C - Ponte Carrabile**
+**Università della Calabria**
 
 
 Ma così già è molto centrato: identità chiara + senso + coerenza.
