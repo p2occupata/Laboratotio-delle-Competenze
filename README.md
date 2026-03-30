@@ -1,5 +1,3 @@
-# Laboratorio delle Competenze
-
 <p align="center">
   <img src="_assets/image.png" alt="Laboratorio delle Competenze" width="500"/>
 </p>
@@ -8,7 +6,7 @@ Questo repository raccoglie i materiali dei workshop nati all’interno del **La
 
 > uno spazio dove ciò che sappiamo diventa utile per tutti.
 
-
+<br>
 ## Il Laboratorio delle Competenze
 
 Il Laboratorio delle Competenze è un ciclo di workshop gratuiti e aperti, costruiti a partire dalle conoscenze di chi sceglie di condividerle.
