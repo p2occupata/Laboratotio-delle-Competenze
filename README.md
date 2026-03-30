@@ -1,5 +1,9 @@
 # Laboratorio delle Competenze
 
+<p align="center">
+  <img src="_assets/image.png" alt="Laboratorio delle Competenze" width="500"/>
+</p>
+
 Questo repository raccoglie i materiali dei workshop nati all’interno del **Laboratorio delle Competenze** dell'Aula P2.0 Occupata dell’Università della Calabria.
 
 > uno spazio dove ciò che sappiamo diventa utile per tutti.
