@@ -34,5 +34,5 @@ Ogni incontro lascia qualcosa che resta, che può essere ripreso, attraversato, 
 
 I materiali presenti in questo repository sono stati condivisi dai relatori durante i workshop del Laboratorio delle Competenze.
 
-**Aula P2.0 Occupata – Cubo 40C - Ponte Carrabile**
+**Aula P2.0 Occupata – Cubo 40C – Ponte Carrabile**<br>
 **Università della Calabria**
