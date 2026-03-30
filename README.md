@@ -1,7 +1,5 @@
 Questo repository raccoglie i materiali dei workshop nati all’interno del **Laboratorio delle Competenze** dell'Aula P2.0 Occupata dell’Università della Calabria.
 
-> uno spazio dove ciò che sappiamo diventa utile per tutti.
-
 <br>
 <br>
 
